@@ -1,10 +1,10 @@
 %************************* Windkessel Model Solver ***********************
 %*******************       Coded by Amin Adibi     ***********************
-%       As a Project for Fund. of Electrical Engineering Course 
+%       
 % 
 %
-%  Student No. 86100332
-%  Contact: ma.adibi@gmail.com
+%  
+% 
 %
 %  January 2012 - Tehran
 %  Sharif University of Technology
